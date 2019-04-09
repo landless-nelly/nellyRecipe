@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">login page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signin">SIGNIN</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="Register">Registered</string>
+    <string name="confirm_password">confirm Password</string>
+    <string name="alreadyregistered">AlreadyRegistered</string>
+    <string name="title_activity_recipes">RecipesActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="call">call</string>
+    <string name="title_activity_grid_details_acivity">GridDetailsAcivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
